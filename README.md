@@ -1,1 +1,1 @@
-# mytinerari-sergiotorresfernandez
+# mytinerary-sergiotorresfernandez
